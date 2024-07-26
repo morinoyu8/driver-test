@@ -7,3 +7,4 @@ to-raspi.sh
 *.mod.c
 *.mod.o
 *.o
+./a.out
