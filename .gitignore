@@ -1,1 +1,9 @@
 .DS_Store
+to-raspi.sh
+*.symvers
+*.order
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.o
